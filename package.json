@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/Shabonkerz/lucid/issues"
   },
-  "homepage": "https://github.com/Shabonkerz/lucid"
+  "homepage": "https://github.com/Shabonkerz/lucid",
+  "devDependencies": {
+    "atom-shell": "^0.22.3"
+  }
 }
