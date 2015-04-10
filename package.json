@@ -22,6 +22,7 @@
   },
   "homepage": "https://github.com/Shabonkerz/lucid",
   "devDependencies": {
-    "atom-shell": "^0.22.3"
+    "atom-shell": "^0.22.3",
+    "gulp": "^3.8.11"
   }
 }
